@@ -18,6 +18,10 @@ Run the development server with
 npm start
 ```
 
+## Deployment URL
+
+http://udacity-image-filter-dev.us-east-1.elasticbeanstalk.com/
+
 ## License
 
 Starter code from [Udacity](https://github.com/udacity/cd12099-Full-Stack-Apps-AWS)
